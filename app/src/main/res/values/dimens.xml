@@ -1,0 +1,105 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="address_selection_detail_marigin">20dp</dimen>
+    <dimen name="new_address_marigin">12dp</dimen>
+    <dimen name="login3m_textview">230dp</dimen>
+    <dimen name="address_selection_marigin">14dp</dimen>
+    <dimen name="address_selection_mobile_padding">4dp</dimen>
+    <dimen name="login3m_marigin">40dp</dimen>
+    <dimen name="payment_padding">20dp</dimen>
+    <dimen name="padding_50">50dp</dimen>
+    <dimen name="padding_20">20dp</dimen>
+    <dimen name="tendp">10dp</dimen>
+    <dimen name="twelve">12dp</dimen>
+    <dimen name="padding_14">14dp</dimen>
+    <dimen name="padding_40">40dp</dimen>
+    <dimen name="width_0">0dp</dimen>
+    <dimen name="spinner_height">50dp</dimen>
+    <dimen name="txt_forty_dp">40dp</dimen>
+    <dimen name="two_dp">2dp</dimen>
+    <dimen name="forty_five">45dp</dimen>
+    <dimen name="fifty_five_dp">53dp</dimen>
+    <dimen name="two_hundred_fifty">250dp</dimen>
+    <dimen name="five_dp">5dp</dimen>
+    <dimen name="three_dp">3dp</dimen>
+    <dimen name="eight_dp">8dp</dimen>
+    <dimen name="twenty_five">25dp</dimen>
+    <dimen name="one_dp">1dp</dimen>
+    <dimen name="point_5">0.5dp</dimen>
+    <dimen name="point_3">0.3dp</dimen>
+    <dimen name="point_4">0.4dp</dimen>
+    <dimen name="one_fifty_dp">150dp</dimen>
+    <dimen name="seven_dp">7dp</dimen>
+    <dimen name="seventy_eight">78dp</dimen>
+    <dimen name="minus_twenty">-20dp</dimen>
+    <dimen name="one_twenty">120dp</dimen>
+    <dimen name="one_fourty">140dp</dimen>
+    <dimen name="one_seventy">170dp</dimen>
+    <dimen name="twenty">20dp</dimen>
+    <dimen name="sixty_eight">68dp</dimen>
+    <dimen name="three_hundred">300dp</dimen>
+    <dimen name="three_hundred_fifteen">315dp</dimen>
+    <dimen name="three_hundred_twenty_five">335dp</dimen>
+    <dimen name="six_dp">6dp</dimen>
+    <dimen name="three_hundred_fifty">350dp</dimen>
+    <dimen name="four_hundred">400dp</dimen>
+    <dimen name="eighteen">18dp</dimen>
+    <dimen name="sixteen">16dp</dimen>
+    <dimen name="two_hundred">200dp</dimen>
+    <!--  <dimen name="fifty">50dp</dimen>-->
+    <dimen name="thirty">30dp</dimen>
+    <dimen name="menuDrawerWidth">290dp</dimen>
+    <dimen name="eighty">80dp</dimen>
+    <dimen name="four_dp">4dp</dimen>
+    <dimen name="twenty_eight_dp">28dp</dimen>
+    <dimen name="zero_dp">0dp</dimen>
+    <dimen name="sixty_four">64dp</dimen>
+    <dimen name="sixty">60dp</dimen>
+    <dimen name="fourty_eight">48dp</dimen>
+    <dimen name="thirty_five">35dp</dimen>
+    <dimen name="very_small_text">12sp</dimen>  <!--29px-->
+    <dimen name="small_text">14sp</dimen>  <!--32px-->
+    <dimen name="medium_text">15sp</dimen>  <!--35px-->
+    <dimen name="large_text">16sp</dimen>  <!--38px-->
+    <dimen name="edit_text">17sp</dimen>  <!--41px-->
+    <dimen name="button_text">18sp</dimen>  <!--43px-->
+    <dimen name="head_title_text">20sp</dimen>  <!--49px-->
+    <dimen name="menu_item_text">21sp</dimen>  <!--52px-->
+    <dimen name="menu_title_text">28sp</dimen>  <!--72px-->
+    <dimen name="wish_text">37sp</dimen>  <!--100px-->
+    <dimen name="fifty">50dp</dimen>  <!--100px-->
+    <dimen name="edit_text_margin">12dp</dimen>  <!--100px-->
+    <dimen name="edit_text_size">13.4sp</dimen>
+    <dimen name="edit_text_hint_size">14sp</dimen>
+    <dimen name="button_text_size">14.4sp</dimen>
+    <dimen name="text_size_forget">14.4sp</dimen>
+    <dimen name="small_text_new">9.6sp</dimen>
+    <dimen name="medium_text_new">12.5sp</dimen>
+    <dimen name="hint_text_size_new">9.6sp</dimen>
+    <dimen name="edit_text_size_new">16sp</dimen>
+    <dimen name="edit_text_padding">13dp</dimen>
+    <dimen name="tab_text_size">12sp</dimen>
+    <dimen name="text_size_small">14sp</dimen>
+
+    <!-- Font for app-->
+    <dimen name="regular_56">56sp</dimen>
+    <dimen name="regular_45">45sp</dimen>
+    <dimen name="regular_34">34sp</dimen>
+    <dimen name="regular_24">24sp</dimen>
+    <dimen name="medium_20">20sp</dimen>
+    <dimen name="medium_18">18sp</dimen>
+    <dimen name="regular_16">16sp</dimen>
+    <dimen name="regular_14">14sp</dimen>
+    <dimen name="regular">12sp</dimen>
+
+
+    <dimen name="entry_img_size">36dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="nav_header_vertical_spacing">16dp</dimen>
+    <dimen name="nav_header_height">160dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+</resources>

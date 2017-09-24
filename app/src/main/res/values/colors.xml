@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0474BC</color>
+    <color name="colorPrimaryDark">#182b4a</color>
+    <color name="colorAccent">#2ec2e0</color>
+    <color name="colorBadge">#f5b811</color>
+
+    <color name="colorTextWhite">#FFFFFF</color>
+    <color name="colorTextGrey">#848484</color>
+    <color name="colorTextBlack">#1d1d26</color>
+    <color name="header_sub_text">#a8abb4</color>
+    <color name="button_color">#0474BC</color>
+    <color name="colorTextLiteGrey">#a8a8aa</color>
+    <color name="colorTextLiterGrey">#383838</color>
+
+
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="grey_text">#D5D5D5</color>
+
+    <color name="dark_grey">#7B7A79</color>
+    <color name="small_text_color">#828282</color>
+    <color name="medium_text_color">#323232</color>
+    <color name="small_text_secondary">#0c3471</color>
+    <color name="share_button_background">#5ae3ff</color>
+    <color name="fav_button_background">#42dbfa</color>
+    <color name="colorHomeItemCount">#787878</color>
+    <!-- <color name="color_gray">#afafb0</color>-->
+    <color name="color_gray">#4a4a4a</color>
+    <color name="bg_color">#f8f8f9</color>
+    <color name="divider_color">#032ea6</color>
+    <color name="recycler_divider_color">#ededee</color>
+    <color name="red">#dd00</color>
+    <color name="small_secondary">#2e328c</color>
+    <color name="status_bar_color">#0134C1</color>
+    <color name="orange">#EE852A</color>
+    <color name="notification_color">#FE0000</color>
+    <color name="green">#26F44D</color>
+    <color name="view_color">#F6F6F6</color>
+
+    <color name="background">#E8E8E8</color>
+    <color name="lay_background">#8EE5EE</color>
+    <color name="forget_password_color">#4a4a4a</color>
+    <color name="common_text_color">#4a4a4a</color>
+    <color name="common_text_color2">#1d1d26</color>
+    <color name="subtitle_text_color">#80ffffff</color>
+    <color name="border_color">#DDDCDC</color>
+    <color name="profile_bg">#f8f8f8</color>
+
+
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#727272</color>
+    <color name="icons">#212121</color>
+
+
+    <color name="treams_color">#000000</color>
+    <color name="white_color">#FFFFFF</color>
+    <color name="price_color">#f72f25</color>
+    <color name="gray_color">#f0f0f0</color>
+    <color name="geen_color">#00a54f</color>
+    <color name="button_border_color">#EAE7E0</color>
+    <color name="borderColor">#CCCC98</color>
+    <color name="green_color">#008000</color>
+    <color name="red_color">#DC143C</color>
+    <color name="title_back_ground">#8c8c8c</color>
+    <color name="text_color">#000000</color>
+
+    <color name="white_87">#DEFFFFFF</color>
+    <color name="white_54">#8AFFFFFF</color>
+    <color name="colorshipping">#FF3366</color>
+    <color name="order_color">#85B213</color>
+
+    <color name="grey_color">#9E9E9E</color>
+    <color name="drak_grey_color">#616161</color>
+    <color name="light_black_color">#262626</color>
+
+
+    <color name="color_light_blue_500">#0277bd</color>
+    <color name="color_light_blue_100">#b9e1f8</color>
+    <color name="color_light_blue_700">#1687ca</color>
+
+
+    <color name="color_brown_A200">#49311c</color>
+    <color name="color_brown_A100">#412c19</color>
+    <color name="color_brown_A400">#3a2716</color>
+
+
+    <color name="color_light_green_500">#009688</color>
+    <color name="color_light_green_100">#b2dfdb</color>
+    <color name="color_light_green_700">#00796b</color>
+    <color name="color_light_green_600">#00acc1</color>
+
+
+    <color name="accent_color_light">@color/color_brown_A100</color>
+    <color name="accent_color_dark">@color/color_brown_A400</color>
+
+    <!-- Drawer Article Color -->
+    <color name="color_apps">#0277BD</color>
+    <color name="color_sales">#FF5722</color>
+    <color name="color_blog">#4CAF50</color>
+    <color name="color_bookmark">#FFC107</color>
+    <color name="color_community">#F44336</color>
+
+    <!-- Text Colors -->
+    <color name="hints">#dadada</color>  <!-- b8b8b8  -->
+    <color name="secondary">#727272</color>
+    <color name="text">#212121</color>
+
+    <!-- Google Brand Colors -->
+    <color name="google_red">#dd4b39</color>
+    <color name="google_white">#ffffff</color>
+    <color name="google_text_disabled">#737373</color>
+    <color name="google_text">#ffffff</color>
+
+    <color name="refresh_progress_1">@color/accent_color_light</color>
+    <color name="refresh_progress_2">@color/accent_color_dark</color>
+
+
+    <!-- Dialer theme -->
+    <color name="dialer_call">#00C853</color>
+    <color name="theme_dialer_high">#0277BD</color>
+    <color name="theme_dialer_primary">#0288D1</color>
+    <color name="theme_dialer_accent">#FFF</color>
+
+    <!-- Reveal transition colors -->
+    <color name="color_set_1_primary">#4fc3f7</color>
+    <color name="color_set_1_accent">#009688</color>
+
+    <color name="color_set_2_primary">#42bd41</color>
+    <color name="color_set_2_accent">#673AB7</color>
+
+    <color name="color_set_3_primary">#ffb74d</color>
+    <color name="color_set_3_accent">#E91E63</color>
+
+    <color name="color_set_4_primary">#ff8a65</color>
+    <color name="color_set_4_accent">#d500f9</color>
+
+
+    <color name="splash_color">#4FC3F7</color>
+
+    <color name="red_bg">#E91E63</color>
+    <color name="green_bg">#00C853</color>
+
+    <color name="window_background">#FFF5F5F5</color>
+    <color name="window_back">#EEEEEE</color>
+
+    <!-- <color name="white">#eeeeee</color>-->
+    <color name="iron">#CCCCCC</color>
+
+
+    <!--fab menu -->
+    <color name="black_semi_transparent">#B2000000</color>
+    <color name="half_black">#808080</color>
+    <color name="white_light">#fafafa</color>
+    <color name="white_pressed">#f1f1f1</color>
+    <color name="pink">#e91e63</color>
+    <color name="pink_pressed">#ec407a</color>
+    <color name="blue_semi_transparent">#805677fc</color>
+    <color name="blue_semi_transparent_pressed">#80738ffe</color>
+
+    <color name="jet">#222222</color>
+    <color name="oil">#333333</color>
+    <color name="monsoon">#777777</color>
+    <color name="jumbo">#888888</color>
+    <color name="aluminum">#999999</color>
+    <color name="base">#AAAAAA</color>
+
+    <color name="color_light_saddlebrown">#8B4513</color>
+    <color name="color_light_sienna">#A0522D</color>
+    <color name="color_light_brown">#49311C</color>
+    <color name="color_light_maroon">#800000</color>
+    <color name="color_light_peru">#CD853F</color>
+    <color name="color_light_brown_1">#5c2a22</color>
+
+
+    <color name="textColor">#ffffff</color>
+    <color name="primary_color_light">#B2EBF2</color>
+    <color name="primary_color_dark">#0097A7</color>
+
+
+    <color name="backGroundColor">#EFEFEF</color>
+
+    <color name="colorPink">#ff4254</color>
+    <color name="colorGray">#999999</color>
+
+    <!--Changed by AKash-->
+    <!--<color name="colorGrayDark">#474747</color>-->
+    <color name="colorGrayDark">#7e7e7e</color>
+    <color name="colorBlack">#000000</color>
+    <!--Color created by Akash-->
+    <color name="colorBlackish">#272727</color>
+    <color name="colorBlackTransparent">#50000000</color>
+    <color name="colorBlackTransparent1">#80000000</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorLightGrey">#D3D3D3</color>
+    <color name= "button_light_grey">#F1F1F1</color>
+    <color name="colorBorderGrey">#929292</color>
+    <color name="colorBorderLightGrey">#ffe5e5e5</color>
+    <color name="user_title_text_color">#535353</color>
+
+
+
+    <color name="black_transparent">#7f000000</color>
+
+    <color name="white_">#fafafa</color>
+
+
+
+    <color name="pressed_color">#4d90fe</color>
+    <color name="default_color">#ffffff</color>
+    <color name="android_default_color">#fff3f3f3</color>
+
+
+
+    <color name="greyShade">#EFEFEF</color>
+    <color name="light_grey_shed">#6b6b6b</color>
+    <!--CReated By Akash-->
+    <color name="black_gray_shaded">#838383</color>
+    <color name="dark_black_shed_grey">#3b3b3b</color>
+    <color name="light_black_shed_grey">#3e3e3e</color>
+    <color name="light_black">#616161</color>
+    <color name="blakish">#525252</color>
+    <color name="grey">#898989</color>
+    <color name="blacky">#242424</color>
+    <color name="radio_black">#717070</color>
+</resources>

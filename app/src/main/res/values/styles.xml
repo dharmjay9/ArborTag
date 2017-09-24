@@ -1,0 +1,122 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme.Dark.Dialog" parent="Theme.AppCompat.Dialog">
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textColorPrimary">@color/colorAccent</item>
+        <item name="android:textColor">@color/colorAccent</item>
+        <item name="android:background">@color/bg_color</item>
+        <item name="android:windowTitleStyle">@style/PauseDialogTitle</item>
+
+    </style>
+
+    <style name="AppTheme.Light.Dialog" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:textAppearance">@style/TextViewMedium</item>
+    </style>
+
+    <style name="PauseDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowTitleStyle">@style/PauseDialogTitle</item>
+    </style>
+
+    <style name="PauseDialogTitle" parent="@android:style/TextAppearance.DialogWindowTitle">
+        <item name="android:gravity">center_horizontal</item>
+    </style>
+
+    <style name="TextViewMedium" parent="android:TextAppearance.Medium">
+        <item name="android:textColor">@color/colorTextBlack</item>
+        <item name="android:lineSpacingExtra">3dp</item>
+        <item name="android:textSize">@dimen/medium_text</item>
+        <item name="fontPath">fonts/AVENIRLTSTD-BOOK.ttf</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:background">?attr/selectableItemBackground</item>
+    </style>
+
+    <style name="TextViewMediumGrey" parent="android:TextAppearance.Medium">
+        <item name="android:textColor">@color/colorTextLiteGrey</item>
+        <item name="android:lineSpacingExtra">3dp</item>
+        <item name="android:textSize">@dimen/medium_text</item>
+        <item name="fontPath">fonts/AVENIRLTSTD-BOOK.ttf</item>
+        <item name="android:textAllCaps">false</item>
+    </style>
+
+
+    <style name="TextStyle" parent="android:TextAppearance.Large">
+        <item name="android:textColor">@color/colorTextBlack</item>
+        <item name="android:textSize">@dimen/head_title_text</item>
+        <item name="android:lineSpacingExtra">3dp</item>
+        <item name="fontPath">fonts/AVENIRLTSTD-BOOK.ttf</item>
+    </style>
+
+    <style name="TextStyleWhite" parent="android:TextAppearance.Large">
+        <item name="android:textColor">@color/colorTextWhite</item>
+        <item name="android:textSize">@dimen/head_title_text</item>
+        <item name="android:lineSpacingExtra">3dp</item>
+        <item name="fontPath">fonts/AVENIRLTSTD-BOOK.ttf</item>
+    </style>
+
+    <style name="TextViewLargeGrey" parent="android:TextAppearance.Large">
+        <item name="android:textColor">@color/colorTextGrey</item>
+        <item name="android:lineSpacingExtra">3dp</item>
+        <item name="fontPath">fonts/AVENIRLTSTD-BOOK.ttf</item>
+        <item name="android:textSize">@dimen/large_text</item>
+        <item name="android:background">?attr/selectableItemBackgroundBorderless</item>
+    </style>
+    <!--edit text-->
+
+    <style name="EditTextStyle" parent="@android:style/Widget.EditText">
+        <item name="android:textColor">@color/colorTextBlack</item>
+        <item name="android:textSize">@dimen/medium_text</item>
+        <item name="android:textColorHint">@color/colorTextGrey</item>
+        <item name="android:paddingLeft">@dimen/activity_horizontal_margin</item>
+        <item name="android:paddingRight">@dimen/activity_horizontal_margin</item>
+        <item name="fontPath">fonts/AVENIRLTSTD-BOOK.ttf</item>
+        <item name="android:singleLine">true</item>
+    </style>
+
+    <style name="EditTextStyleGrey" parent="@android:style/Widget.EditText">
+        <item name="android:textColor">@color/header_sub_text</item>
+        <item name="android:textSize">@dimen/medium_text</item>
+        <item name="android:textColorHint">@color/colorTextGrey</item>
+        <item name="fontPath">fonts/AVENIRLTSTD-BOOK.ttf</item>
+        <item name="android:singleLine">true</item>
+    </style>
+
+    <style name="CustomeEditText_White" parent="@android:style/TextAppearance">
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textSize">15dp</item>
+        <item name="fontPath">fonts/AVENIRLTSTD-BOOK.ttf</item>
+    </style>
+
+    <style name="CustomeEditText" parent="@android:style/TextAppearance">
+        <item name="android:singleLine">true</item>
+        <item name="android:textSize">15dp</item>
+        <item name="fontPath">fonts/AVENIRLTSTD-BOOK.ttf</item>
+    </style>
+
+    <style name="ButtonShapStyle" parent="android:style/Widget.Button">
+        <item name="android:background">@drawable/buttonshape</item>
+        <item name="android:shadowColor">#1499A8</item>
+
+        <item name="android:shadowDx">0</item>
+        <item name="android:shadowDy">0</item>
+        <item name="android:shadowRadius">0</item>
+        <item name="android:textSize">15dp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="fontPath">fonts/AVENIRLTSTD-BOOK.ttf</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>

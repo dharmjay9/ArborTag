@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:fitsSystemWindows="true"
+tools:context="in.com.arbortag.home.HomeActivity">
+
+<android.support.design.widget.AppBarLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:theme="@style/AppTheme.AppBarOverlay">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="?attr/colorPrimary"
+        app:popupTheme="@style/AppTheme.PopupOverlay" />
+
+</android.support.design.widget.AppBarLayout>
+
+    <LinearLayout
+        android:id="@+id/activity_arbor_tag_nfcwrite"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="?attr/actionBarSize"
+        android:orientation="vertical"
+
+        tools:context="in.com.arbortag.nfc.ArborTagNFCWrite">
+        <TextView
+
+            android:id="@+id/text_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Aproach the tag to read, or press write to write a tag"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <EditText
+            android:id="@+id/write_text_id"
+            android:hint="Type here "
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            />
+
+
+        <Button
+            android:id="@+id/write_button"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="write" />
+    </LinearLayout>
+
+
+</android.support.design.widget.CoordinatorLayout>

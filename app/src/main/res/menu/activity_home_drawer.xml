@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_location"
+            android:icon="@drawable/ic_marker_1"
+            android:title="@string/location" />
+        <item
+            android:id="@+id/nav_histroy"
+            android:icon="@android:drawable/ic_menu_recent_history"
+            android:title="@string/history" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/wait_write_dialog_title" />
+        <item
+            android:id="@+id/nav_aboutus"
+            android:icon="@drawable/ic_aboutus"
+            android:title="@string/aboutus" />
+        <item
+            android:id="@+id/nav_share"
+            android:icon="@drawable/ic_menu_share"
+            android:title="@string/share_app" />
+        <item
+            android:id="@+id/nav_rate"
+            android:icon="@drawable/ic_star"
+            android:title="@string/rate_app" />
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/ic_power_settings"
+            android:title="@string/logout" />
+
+    </group>
+
+
+
+</menu>
